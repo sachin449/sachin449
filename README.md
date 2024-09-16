@@ -5,7 +5,7 @@
 
 - I’m currently learning **Nextjs, AWS Cloud Services,TypeScript and ThreeJs**
 
-- I’m currently working on **Audit App**
+- I’m currently working on **testingAMR**
 
 - Ask me about **C, C++, JavaScript, MongoDB, ReactJs, TailwindCSS, Firebase**
 
