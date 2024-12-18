@@ -1,11 +1,9 @@
 <h1 align="center">Hi, I'm sachin</h1>
 <h3 align="center">Full Stack Developer with a relentless drive for innovation. I build scalable, efficient web solutions and continuously explore emerging technologies to stay at the forefront of development.</h3>
 
-- I’m currently working on [ESG global partners website](https://esggp.org/)
+- I’m currently working with ESG Global Partners. 
 
 - I’m currently learning **Nextjs, AWS Cloud Services,TypeScript and ThreeJs**
-
-- I’m currently working on **testingAMR**
 
 - Ask me about **C, C++, JavaScript, MongoDB, ReactJs, TailwindCSS, Firebase**
 
