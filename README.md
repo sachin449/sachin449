@@ -3,9 +3,7 @@
 
 - I’m currently working with ESG Global Partners. 
 
-- I’m currently learning **Nextjs, AWS Cloud Services,TypeScript and ThreeJs**
-
-- Ask me about **C, C++, JavaScript, MongoDB, ReactJs, TailwindCSS, Firebase**
+- Ask me about **C, C++, JavaScript, MongoDB, ReactJs, Express.js, Node.js, TailwindCSS, Firebase, AWS Services**
 
 - How to reach me **sachinkumarr3144@gmail.com**
 
