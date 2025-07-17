@@ -1,11 +1,9 @@
 <h1 align="center">Hi, I'm sachin</h1>
 <h3 align="center">Full Stack Developer with a relentless drive for innovation. I build scalable, efficient web solutions and continuously explore emerging technologies to stay at the forefront of development.</h3>
 
-- I’m currently working with ESG Global Partners. 
-
 - Ask me about **C, C++, JavaScript, MongoDB, ReactJs, Express.js, Node.js, TailwindCSS, Firebase, AWS Services**
 
-- How to reach me **sachinkumarr3144@gmail.com**
+- How to reach me **sachinkumar3@aol.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
